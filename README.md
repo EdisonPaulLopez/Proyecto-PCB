@@ -111,7 +111,7 @@ Objetivo: validar el desempeño frente a las especificaciones finales, garantiza
 ## Herramientas
 
 - EasyEDA (diseño de esquemáticos y PCB)
-- ESP32-S3 / Arduino
+- Autodesk Fusion (Enclosure)
 - Edge Impulse
 
 ## Estructura del repositorio
