@@ -114,17 +114,6 @@ Objetivo: validar el desempeño frente a las especificaciones finales, garantiza
 - Autodesk Fusion (Enclosure)
 - Edge Impulse
 
-## Estructura del repositorio
-
-```
-├── schematics/   # Esquemáticos
-├── pcb/          # Diseño de la placa
-├── gerbers/      # Archivos de fabricación
-└── README.md
-```
-
-> Ajusta esta sección a las carpetas reales de tu repositorio.
-
 ## Autor
 
 Edison — Ingeniería en Electrónica y Telecomunicaciones, Universidad del Cauca (FIET).
