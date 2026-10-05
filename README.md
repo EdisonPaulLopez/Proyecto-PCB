@@ -40,7 +40,7 @@ La comunicación entre ambos nodos se hace por las redes `TXD0` y `RXD0`.
 ## Herramientas
 
 - EasyEDA (diseño de esquemáticos y PCB)
-- ESP32-S3 / Arduino
+- Autodesk Fusion (Enclosure)
 - Edge Impulse
 
 ## Estructura del repositorio
